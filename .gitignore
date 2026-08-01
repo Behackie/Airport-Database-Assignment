@@ -1,2 +1,8 @@
+# Compiled output
 AirportDatabaseApp.exe
-.vscode/
+*.exe
+*.o
+
+# VS Code local settings (keep shared ones like c_cpp_properties.json if useful to Dr. Afoakwa)
+.vscode/launch.json
+.vscode/settings.json
