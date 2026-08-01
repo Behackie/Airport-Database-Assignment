@@ -1,0 +1,2 @@
+ACC,Kotoka International Airport,Accra,Ghana
+KMS,Kumasi Airport,Kumasi,Ghana
